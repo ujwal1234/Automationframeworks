@@ -1,0 +1,8 @@
+INFO    2021-08-30 02:00:49,935 [main] base.BaseTest  - Config Properties loaded !!!
+INFO    2021-08-30 02:00:51,948 [main] base.BaseTest  - Chrome Browser Launched !!!
+INFO    2021-08-30 02:01:15,429 [main] base.BaseTest  - Navigating to the URL : https://www.carwale.com/
+INFO    2021-08-30 02:01:19,767 [main] base.BaseTest  - Database connection established
+INFO    2021-08-30 02:01:26,630 [main] base.BaseTest  - Test Execution completed !!!
+INFO    2021-08-30 02:01:26,635 [main] base.BaseTest  - Test Execution completed !!!
+INFO    2021-08-30 02:01:26,640 [main] base.BaseTest  - Test Execution completed !!!
+INFO    2021-08-30 02:01:26,644 [main] base.BaseTest  - Test Execution completed !!!
