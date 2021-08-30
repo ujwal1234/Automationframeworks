@@ -28,6 +28,8 @@ public class BasePage {
 		this.driver = driver; //DriverManager.getDriver();
 		car = new CarBase(driver);
 		PageFactory.initElements(driver, this);
+		System.out.println("This is the constructor of my Base page class");
+		System.out.println("This is the constructor of my Base page class");
 	}
 	
 	
